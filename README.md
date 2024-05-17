@@ -4,7 +4,7 @@
 
 1. **Save the Script:**
 
-   Save the following code in a file named `setup_python_env.sh`.
+   Save setup_python_env.sh.
 
 2. **Set Permissions**
 
